@@ -1,2 +1,5 @@
-YAML
-runtime: nodejs20
+kind: "AppHostingBackend"
+schemaVersion: "v1"
+runConfig:
+  minInstances: 0
+  maxInstances: 10
