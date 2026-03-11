@@ -10,8 +10,6 @@
   "dependencies": {
     "next": "15.1.4",
     "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "leaflet": "1.9.4",
-    "react-leaflet": "4.2.1"
+    "react-dom": "19.0.0"
   }
 }
