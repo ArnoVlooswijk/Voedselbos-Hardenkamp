@@ -3,6 +3,3 @@ schemaVersion: "v1"
 runConfig:
   minInstances: 0
   maxInstances: 1
-env:
-  - variable: NPM_CONFIG_LEGACY_PEER_DEPS
-    value: "true"
